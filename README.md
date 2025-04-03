@@ -1,1 +1,2 @@
-# Cloud-Computing-Project
+CanvasCrafted.com is an online art gallery dedicated to showcasing and promoting talented artists from around the world. Our platform provides a unique space for artists to display their work and for art enthusiasts to explore and purchase beautiful pieces of art.
+The primary purpose of CanvasCrafted.com is to connect artists with a global audience and provide a platform for them to showcase and sell their artwork. Additionally, the website aims to offer art enthusiasts a convenient and enjoyable way to discover and purchase art that resonates with them
